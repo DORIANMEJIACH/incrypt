@@ -1,0 +1,14 @@
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\bin\Debug\net7.0\incripatacion.exe
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\bin\Debug\net7.0\incripatacion.deps.json
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\bin\Debug\net7.0\incripatacion.runtimeconfig.json
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\bin\Debug\net7.0\incripatacion.dll
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\bin\Debug\net7.0\incripatacion.pdb
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\obj\Debug\net7.0\incripatacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\obj\Debug\net7.0\incripatacion.AssemblyInfoInputs.cache
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\obj\Debug\net7.0\incripatacion.AssemblyInfo.cs
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\obj\Debug\net7.0\incripatacion.csproj.CoreCompileInputs.cache
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\obj\Debug\net7.0\incripatacion.dll
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\obj\Debug\net7.0\refint\incripatacion.dll
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\obj\Debug\net7.0\incripatacion.pdb
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\obj\Debug\net7.0\incripatacion.genruntimeconfig.cache
+C:\Users\DRMC\Desktop\encriptacion\incripatacion\obj\Debug\net7.0\ref\incripatacion.dll
